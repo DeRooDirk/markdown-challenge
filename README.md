@@ -5,15 +5,17 @@
 
 ## Father ,Friend ,Gamer.
 
-| Birthday | 05/10/1974 |
+| Birthday : | 05/10/1974 |
 | --- | ---------- |
-| Fav Color | Red | 
-| Fav Food | French Fries and steak | 
-|Pinneapple on pizza | YES - NO  [x]  | 
+| Fav Color : | Red | 
+| Fav Food : | French Fries and steak | 
+|Pinneapple on pizza : | YES [-] - NO  [x]  | 
+
 
 ## Hobby's
 1. Gaming
     - First Person Survival
+    - First Person Shooters
     - Flight Simulator
 2. Fishing
     - Carpfishing
@@ -32,4 +34,4 @@ I once went out with friends on a bachelorparty and we woke up in the next morni
  It was a great time that day 
 
 
-<< [Previous](www.google.com) || De Roo Dirk || [next](www.facebook.com) >>
+<< [Previous](https://github.com/Ziges/Markdown-challenge) || De Roo Dirk || [next](www.facebook.com) >>
