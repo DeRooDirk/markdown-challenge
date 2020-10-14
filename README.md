@@ -4,12 +4,12 @@
 ![Drag Racing](https://raw.githubusercontent.com/DeRooDirk/markdown-challenge/main/assets/dirkkk.jpg)
 
 ## Father ,Friend ,Gamer.
-
-| Birthday : | 05/10/1974 |
+| Syntax      | Description | 
 | --- | ---------- |
+| Birthday : | 05/10/1974 |
 | Fav Color : | Red | 
 | Fav Food : | French Fries and steak | 
-|Pinneapple on pizza : | YES [-] - NO  [x]  | 
+|Pinneapple on pizza : | YES [ ] - NO  [x]  | 
 
 
 ## Hobby's
