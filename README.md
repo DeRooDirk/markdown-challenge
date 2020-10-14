@@ -1,7 +1,7 @@
 # De Roo Dirk
 *Your Limitation - It's only your Imagination*
 
-![Drag Racing](Dirkkk.jpg)
+![Drag Racing](https://raw.githubusercontent.com/DeRooDirk/markdown-challenge/main/dirkkk.jpg)
 
 ## Father ,Friend ,Gamer.
 
