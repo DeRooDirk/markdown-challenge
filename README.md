@@ -8,8 +8,8 @@
 | Birthday | 05/10/1974 |
 | --- | ---------- |
 | Fav Color | Red | 
-| Fav Food | French Fries | 
-|Pinneapple on pizza |YES - NO  [x]  | 
+| Fav Food | French Fries and steak | 
+|Pinneapple on pizza | YES - NO  [x]  | 
 
 ## Hobby's
 1. Gaming
