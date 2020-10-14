@@ -4,7 +4,7 @@
 ![Drag Racing](https://raw.githubusercontent.com/DeRooDirk/markdown-challenge/main/assets/dirkkk.jpg)
 
 ## Father ,Friend ,Gamer.
-| Syntax      | Description | 
+| | | 
 | --- | ---------- |
 | Birthday : | 05/10/1974 |
 | Fav Color : | Red | 
