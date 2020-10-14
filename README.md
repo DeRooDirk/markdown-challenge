@@ -6,7 +6,7 @@
 ## Father ,Friend ,Gamer.
 | | | 
 | --- | ---------- |
-| Birthday : | 05/10/1974 git add README.md |
+| Birthday : | 05/10/1974  |
 | Fav Color : | Red | 
 | Fav Food : | French Fries and steak | 
 |Pinneapple on pizza : | YES [ ] - NO  [x]  | 
